@@ -2,9 +2,11 @@
 
 > A dark theme for [Ulysses](http://ulyssesapp.com).
 
+![Screenshot](https://draculatheme.com/assets/img/screenshots/ulysses.png)
+
 ## Install
 
-Instructions coming soon.
+All instructions can be found at [draculatheme.com/ulysses](https://draculatheme.com/ulysses).
 
 ## Team
 
