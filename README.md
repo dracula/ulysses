@@ -2,7 +2,7 @@
 
 > A dark theme for [Ulysses](http://ulyssesapp.com).
 
-![Screenshot](https://draculatheme.com/assets/img/screenshots/ulysses.png)
+![Screenshot](./screenshot.png)
 
 ## Install
 
