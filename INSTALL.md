@@ -8,7 +8,7 @@ Visit [Ulysses Style Exchange](http://styles.ulyssesapp.com/bundle/Dracula/56319
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
-    $ git clone https://github.com/dracula/ulysses.git
+    git clone https://github.com/dracula/ulysses.git
 
 #### Install manually
 
